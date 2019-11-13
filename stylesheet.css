@@ -1,0 +1,13 @@
+h1 {color: blue; font-size: 22pt;} 
+H1 {font-size: 250%;
+	              font-weight: bold;
+	              color: blue}
+
+
+Body { background: grey; 
+	     color: navy;
+	     font-size: 14pt;
+
+
+
+A:hover { color: red }
